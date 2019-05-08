@@ -11,3 +11,6 @@ title: '一个测试项'
 ```
 link: [server](http://Asteria-SpiriT.github.io)
 
+```bash
+代码块
+```
